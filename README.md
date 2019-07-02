@@ -1,2 +1,2 @@
 This repo was created to store misc files
-Solo Dynamic WS
+Dynamic WS created with HTML, JS, CSS, JQuery, Bootstrap
